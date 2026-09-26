@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello
-Tavish edited this
-=======
-hello world
->>>>>>> 21d48fc2e11a2b4ccbd5f3cc7a7e6158be2a7eaa
+i
